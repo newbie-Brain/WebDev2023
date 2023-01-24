@@ -1,0 +1,25 @@
+body {
+    background-color: #e8d2dfc7;
+    text-align: center;
+    margin: 50px;
+  }
+  
+  h1 {
+    color: rgba(141, 79, 199, 0.859);
+    font-family: "Oswald", sans-serif;
+    font-size: 80px;
+  }
+  
+  p {
+    font-family: sans-serif;
+    color: brown;
+    font-size: 30px;
+  }
+  
+  a {
+    font-size: 20px;
+    color: rgb(48, 98, 184);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  

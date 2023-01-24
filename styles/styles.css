@@ -1,0 +1,19 @@
+body {
+  margin: 50px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#todays-challenge {
+  color: rgba(16, 16, 196, 0.721);
+  font-weight: bold;
+  font-size: 45px;
+}
