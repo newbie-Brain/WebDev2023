@@ -1,12 +1,27 @@
+header {
+  margin-bottom: 64px;
+}
+
+body {
+  margin: 0;
+}
+
 h1 {
   font-size: 48px;
   color: goldenrod;
+  margin: 12px 0;
+}
+
+#description {
+  margin-bottom: 50px;
 }
 
 a {
   background-color: white;
   border-radius: 5px;
   font-size: 25px;
+  padding: 10px 40px;
+  border: 1px solid blue;
 }
 
 a:hover {
@@ -16,10 +31,28 @@ a:hover {
 ol {
   list-style: none;
   color: purple;
+  width: 500px;
+  margin: 36px auto 60px auto;
+  padding: 0;
 }
 
 li {
-    margin: 20px;
-    background-color: rgb(187, 222, 227);
-    border-radius: 6px;
+  margin: 20px;
+  background-color: rgb(187, 222, 227);
+  border-radius: 6px;
+  padding: 16px;
+}
+
+h2 {
+  color: brown;
+  font-family: "Oswald", sans-serif;
+}
+
+main p {
+  margin: 15px;
+  color: rgb(67, 102, 13);
+}
+
+.highlight-goal {
+  background-color: rgb(77, 196, 212);
 }
