@@ -1,0 +1,25 @@
+h1 {
+  font-size: 48px;
+  color: goldenrod;
+}
+
+a {
+  background-color: white;
+  border-radius: 5px;
+  font-size: 25px;
+}
+
+a:hover {
+  background-color: yellow;
+  color: purple;
+}
+ol {
+  list-style: none;
+  color: purple;
+}
+
+li {
+    margin: 20px;
+    background-color: rgb(187, 222, 227);
+    border-radius: 6px;
+}
