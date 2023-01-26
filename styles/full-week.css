@@ -9,11 +9,11 @@ body {
 h1 {
   font-size: 48px;
   color: goldenrod;
-  margin: 12px 0;
+  margin: 0;
 }
 
 #description {
-  margin-bottom: 50px;
+  margin: 30px;
 }
 
 a {
@@ -22,6 +22,8 @@ a {
   font-size: 25px;
   padding: 10px 40px;
   border: 1px solid blue;
+  display: inline-block;
+  margin: 0;
 }
 
 a:hover {
@@ -41,6 +43,7 @@ li {
   background-color: rgb(187, 222, 227);
   border-radius: 6px;
   padding: 16px;
+  box-shadow: 3px 3px 6px lightslategrey;
 }
 
 h2 {
